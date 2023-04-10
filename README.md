@@ -16,7 +16,7 @@ https://drive.google.com/file/d/1h0k8vjzhtYs59h32-bqEjgHc7lUl-HvZ/view?usp=shari
 
 ![image](https://user-images.githubusercontent.com/50785245/230353735-01685283-0fdf-460a-bba2-f3a316d3962b.png)
 
-Table of Contents
+### Table of Contents
 ## 0.	Tips	15
 ## 1. Front-End Web Development	17
 4. How to Get the Most Out of the Course	17
